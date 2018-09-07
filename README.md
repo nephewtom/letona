@@ -19,7 +19,8 @@ Y además M debe cumplir las expresiones:
 M = 2xB+1
 M = 2xC+1
 M = 2xD+1
-M = 2xE+1```  
+M = 2xE+1
+```  
 
 donde A,B,C,D y E son enteros.
 
