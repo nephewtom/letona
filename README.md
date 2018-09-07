@@ -33,6 +33,9 @@ Se ha escrito el programita `letona.py` en Python que realica dichos.
 
 ## Ejecución
 Resultado de la ejecución del programa:  
-```$ python problema-ovejas-letona.py 
-Numero valido de ovejas: 301
-Numero valido de ovejas: 721```
+```$ python ovejas.py 
+[7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139]
+[49, 77, 91, 119, 133, 161, 203, 217, 259, 287, 301, 329, 371, 413, 427, 469, 497, 511, 553, 581, 623, 679, 707, 721, 749, 763, 791, 889, 917, 959, 973]
+Ovejas: 301
+Ovejas: 721
+```

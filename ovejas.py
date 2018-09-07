@@ -25,4 +25,4 @@ mp = map(lambda x: x*7, p)
 print mp
 for x in mp:
     if checkValidSheeps(x):
-        print 'Sheeps:', x
+        print 'Ovejas:', x
