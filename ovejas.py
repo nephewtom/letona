@@ -20,9 +20,9 @@ def checkValidSheeps(m):
     return False
 
 p = primeNumbers(7, 1000/7)
-print p
+print 'primos:', p
 mp = map(lambda x: x*7, p)
-print mp
+print 'primos*7:', mp
 for x in mp:
     if checkValidSheeps(x):
         print 'Ovejas:', x
