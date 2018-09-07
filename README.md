@@ -29,7 +29,7 @@ Para resolverlo se calculan los numeros primos entre **7** y **1000/7**.
 Se multiplica cada uno por 7.  
 Se comprueba si cada uno de ellos cumple las expresiones citadas  
 
-Se ha escrito el programita `letona.py` en Python que realica dichos.  
+Se ha escrito el programita `ovejas.py` en Python que realica dichos.  
 
 ## Ejecución
 Resultado de la ejecución del programa:  
