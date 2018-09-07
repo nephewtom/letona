@@ -1,4 +1,6 @@
-# Problema divertido de la Escuela de Pensamiento Matemático Miguel de Guzmán
+# El pastor y su rebaño
+
+Un problema divertido de la Escuela de Pensamiento Matemático Miguel de Guzmán.
 Publicado en el post: https://www.facebook.com/EPM.MigueldeGuzman/posts/1801185633283286
   
 > Un problema serio:
